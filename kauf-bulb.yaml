@@ -142,6 +142,7 @@ light:
   entity_category: config
   default_transition_length: 0ms
   aux: true
+  disabled_by_default: true
   name: $friendly_name Warm RGB
   forced_hash: 4077116474
 
@@ -151,6 +152,7 @@ light:
   entity_category: config
   default_transition_length: 0ms
   aux: true
+  disabled_by_default: true
   name: $friendly_name Cold RGB
   forced_hash: 301094535
 
